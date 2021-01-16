@@ -14,3 +14,14 @@ font-variant: small-caps;
 font-size: 150%;  
 font-family: arial,serif,"time new roman";    
 }
+details{
+font-style: italic;
+}
+summary{
+font-style: normal;
+}
+footer{
+background: #666666; 
+}
+
+
