@@ -1,6 +1,6 @@
 h1{
 background: #B3B3B3;
-font-size: 300%;
+font-size: 200%;
 }
 header{
 background: #666666; 
@@ -21,7 +21,7 @@ summary{
 font-style: normal;
 }
 footer{
-background: #666666; 
+background: yellow; 
 }
 
 
