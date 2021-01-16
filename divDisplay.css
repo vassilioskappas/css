@@ -1,21 +1,24 @@
 span{
 height:50px;
-width:75px;
+width:375px;
 background:#00ff00;
 /*display:try block and inline block;*/
 /*float*/
 }
 div{
-height:100px;
+height:30px;
 width:45%;
 background:#00ffff;
 /*display:;*/
 /*float:;*/
 }
-p{
-height:200px;
-width:100px;
-background:#ff00ff;
+p {
+   p {
+    clear: both;
+    width: 1000px;
+    height: 20px;
+    float: center;
+    background: #ff00ff;
 /*display:;*/
 /*float:;*/
 }
