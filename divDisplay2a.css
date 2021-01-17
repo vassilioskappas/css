@@ -1,0 +1,12 @@
+/*wht can u do here to make sure the divs take up the same space?*/
+body{
+display:table;
+}
+div{
+width:30%;
+background: #00ffff;
+height: 400px;
+display:table-cell;
+float: left;
+overflow: scroll;
+}
