@@ -6,8 +6,11 @@ background:#00ff00;
 /*float*/
 }
 div{
-height:30px;
-width:45%;
+height:50px;
+width:100px;
+   padding:10px;
+   margin:5px;
+   border:1px solid black;
 background:#00ffff;
 /*display:;*/
 /*float:;*/
