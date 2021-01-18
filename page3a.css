@@ -1,0 +1,19 @@
+nav a{
+  text-align:center;
+  color:#135789;
+  backgroung:#545454;
+  display:inline-block;
+  width:20%;
+  margin-right:2%;
+}
+.vass{
+  color:#696969;
+  background:#969696;
+  text-transform:uppercase;
+}
+nav a:hover{
+  background-color:#660066;
+  }
+a[href*='tests']{
+  background:#000111;
+}
