@@ -1,0 +1,37 @@
+h1{
+  align-text:center;
+}
+a{
+  display:block;
+  font-weight:bold;
+  color:#123456;
+  background:#654321;
+  width:200px;
+  text-aligh:center;
+  paddinh:4px;
+  text-decoration:none;
+  margin:0 auto;
+  margin-top:10px;
+  }
+a.hover{
+  background:#ff23ff;
+  color:#23ff23;
+}
+a.focus{
+  background:#ffffff;
+  color:#ff0000;
+}
+a.active{
+  border:3 px solid #000000;
+}
+div{
+  display:inline-block;
+  width:45%;
+}
+ol{
+   list-style-type:circle;
+}
+ul{
+    list-style-type: upper-roman;
+}
+ol, ul{list-style-image:url("https://www.google.com/search?q=me+image&sxsrf=ALeKk00KAQKDGxE5WU28XVEfxfSRn4Pyyg:1610972264540&tbm=isch&source=iu&ictx=1&fir=z8-kp3VAGV0GdM%252C0i12pNfgdIEG6M%252C_&vet=1&usg=AI4_-kT8ONJL4eiaM4uAVKfHLZzi3dob-Q&sa=X&ved=2ahUKEwiy-8esu6XuAhUu4YUKHTeFDAsQ9QF6BAgGEAE&biw=1184&bih=524");}
