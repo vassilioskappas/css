@@ -12,6 +12,8 @@ width:100px;
    margin:5px;
    border:1px solid black;
 background:#00ffff;
+   display:inline-block;
+   box-sizing:border-box;
 /*display:;*/
 /*float:;*/
 }
