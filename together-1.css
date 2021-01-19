@@ -20,8 +20,13 @@ font-style: italic;
 summary{
 font-style: bold;
 }
-footer{
-background: #ff6347;
+header, footer{
+background: -moz-linear-gradient(top,#666666 5% #666333); 
+background: -webkit-linear-gradient(#666666 0% ); 
+background: -o-linear-gradient(#666666 0%, #666600); 
+background: linear-gradient(#666666 0%, #00bb77) ;
+background: #666666; 
+
 }
 
 
