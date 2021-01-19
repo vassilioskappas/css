@@ -4,7 +4,6 @@ body{
   margin:4%;
 }
 header{
- background:#666666;
   padding:15px;
   text-aline:center;
 }
@@ -26,6 +25,15 @@ details{
 summary{
   font-style:normal;
 }
+.half{
+  width:45%;
+}
+.whole{
+clear:both;
+  width: 100%;
+  text-align: center;
+}
+
 section{
   width:30%;
   display:inline-block;
@@ -33,10 +41,18 @@ section{
   margin-right:2%;
 }
 footer{
-  background:#0f0f0f;
-  clear:both;
+  color:#d88116;
+  background:#666666;
+  width: 100%;
+  background:-moz-linear-gradient(top,#666666 0%,#666666 20%); 
 }
-img{
-  width:125px;
+img{  width:125px;
 }
-
+nav a{
+  width:45%;
+  display:inline-block;
+  background:#fff000;
+  }
+a:hover{
+  background:#00ffff;
+}
