@@ -1,9 +1,9 @@
 header{
    background-color:#ffff47; 
   height: 200px;
-  width:200px;
-background-image: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg ");
-  
+  width:auto;
+background-image: url("https://vassilioskappas.github.io/tests/flywheel.jpg");
+  background-image-repeat:repeat;
   }
 body{
   padding:4px;
