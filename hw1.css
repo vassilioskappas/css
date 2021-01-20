@@ -1,11 +1,10 @@
 header{
-   background-color:#ffff47; 
+   background-color: #6f6f6f;
   height: 200px;
   width:400px;
 background-image: url("https://vassilioskappas.github.io/tests/flywheel.jpg");
-  background-repeat: repeat;
-  background-color: #6f6f6f;
-   image-align:center;
+  background-repeat:no-repeat;
+     image-align:center;
 }
 body{
   padding:4px;
