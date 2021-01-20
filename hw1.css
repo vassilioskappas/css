@@ -3,7 +3,7 @@ header{
   height: 200px;
   width:450px;
 background-image: url("https://vassilioskappas.github.io/tests/flywheel.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-color: blue;
 }
 body{
