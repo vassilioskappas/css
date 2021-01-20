@@ -17,11 +17,8 @@ h1{
   font-size:250%
 }
 .active{
-  border:3px;
-  padding:10px;
-  margin:20px;
-  color:#060606;
-  background:#ffffff;
+  background:#FCFF33;
+  color:#23ff23;
 }
 .nav{
 display: inline;
@@ -34,37 +31,39 @@ border-radius: 22px;
 }
 nav{
   color:#0000ff;
-  background-color:#ff6347;
-    text-align:center;
+      text-align:center;
 }
 a:hover{
   background:#FCFF33;
   color:#23ff23;
 }
-section{
-  color:#f3f4f6;
-  background-color:#666666;
+ section{
+   width:700px;
+  color:#ffffff;
+  background-color:#Ffffff;
   text-align:left;
-  font-size:100%; 
-height:1000px;
-  width:auto;
-}
+  font-size:110%; 
+ }
 img{
- border-style:solid;
-    border-width:5px;  
-    border-color:#000000;
-  margin:20px;
-  image-align:center;
-  padding:2px;
-  width:310px;
- float:left; 
-  height:auto;
+    border: 5px solid #000000;
+  border-radius: 4px;
+  padding:8px 1px 2px 3px;
+  width: 180px;    
+  margin:15px;
+  height:99px;
 }
-  .left {
-  display: block;
-    margin-left: auto;}
-  .right{
-  text-align:center;
+.left {
+  float: left;
+ background-color:#f5deb3;
+width:224px;}
+.right{
+ float:right;
+  text-align:left;
     color:#666666;
-    font-size:200%;
+  background:#ffffff;  
+  font-size:110%;
+  width:700px;
     }
+h2{
+  text-align:left;
+}
