@@ -1,0 +1,176 @@
+table{      
+  height:350px;
+  font-family: "Times New Roman", Times, serif;
+  width:70%;
+  margin:15px 25px 10px 50px ;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 100%;
+  text-align:center;
+  opacity:.8;
+  background-color:#166133;
+  }
+th {
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  background-color: -webkit-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background-color:    -moz-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background-color:     -ms-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background-color:      -o-radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  border:3px solid#666666;
+  border-bottom-style: solid#666666;
+  border-bottom-width:7px;  
+    border-radius:15px 15px 0px 0px;
+  width:350px;
+  height:25px;
+  color:#ffffff;
+  text-align:center;
+}
+tr td:first-child { 
+text-align:left;
+  width:60%;
+} 
+tr td:second-child { 
+  width:20%;
+}
+tr td:last-child { 
+  width:20%;
+} 
+tr:hover{
+  opacity:.5;
+  text-decoration: line-through;
+  text-shadow: 5px 5px #FF0000;
+}
+td {
+  background:#ff66ff;  
+  color:#000000;
+  font-style:italic;
+text-decoration:none;  
+  border-radius:2px;
+  }
+
+
+h1:hover {
+  padding:1%;
+  width: 100px;
+  height: 30px;
+  background-color: #FFD700;
+  -ms-transform: rotate(5deg); 
+  transform: rotate(5deg);
+  font-size:80%;
+  color:#008000;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+   background-color:#ffff47; 
+  height: 200px;
+  width:auto;
+background-image: url("https://vassilioskappas.github.io/images/flywheel.jpg");
+  background-image-repeat:repeat;
+  }
+body{
+  padding:4px;
+  margin:4px;
+}
+h1{
+  text-align: center;
+  text-transform:uppercase;
+  color:#ffff00;
+  font-size:250%
+}
+.active{
+  background:#FCFF33;
+  color:#23ff23;
+}
+.nav{
+display: inline;
+  background-color:#ff6347;
+  margin:30px;
+  border:2px solid blue;
+border-radius: 22px;
+  text-decoration: line-through;
+  padding:22px;
+}
+nav{
+  color:#0000ff;
+      text-align:center;
+}
+a:hover{
+  background:#FCFF33;
+  color:#23ff23;
+}
+ section{
+   width:700px;
+  color:#ffffff;
+  background-color:#Ffffff;
+  text-align:left;
+  font-size:110%; 
+ }
+img{
+    border: 5px solid #000000;
+  border-radius: 4px;
+  padding:8px 1px 2px 3px;
+  width: 180px;    
+  margin:15px;
+  height:99px;
+}
+.left {
+  float: left;
+ background-color:#f5deb3;
+width:224px;}
+.right{
+ float:right;
+  text-align:left;
+    color:#666666;
+  background:#ffffff;  
+  font-size:110%;
+  width:700px;
+    }
+h2{
+  text-align:left;
+}
